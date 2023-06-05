@@ -1,1 +1,2 @@
-# credit_card_checker
+# Credit Card Checker
+This JavaScript code will take a nested array of credit card numbers in the `findInvalidCards` function and use the `validateCred` function to push invalid cards to an empty array, which will then be returned.
